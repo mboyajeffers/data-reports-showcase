@@ -70,7 +70,7 @@ All report figures are independently verifiable — source URL and data pull tim
 - Monthly analytics retainers ($1,000–$5,000/month)
 - Equity or revenue-share arrangements for early-stage companies
 
-**Hire me on Contra:** [contra.com/mboyajeffers](https://contra.com/mboyajeffers)
+**Hire me on Contra:** [contra.com/mboya_jeffers_46drj2j3](https://contra.com/mboya_jeffers_46drj2j3)
 
 **LinkedIn:** [linkedin.com/in/mboyajeffers](https://linkedin.com/in/mboyajeffers)
 
