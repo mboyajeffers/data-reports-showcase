@@ -1,3 +1,5 @@
+> **Archived — consolidated into [financial-market-analysis](https://github.com/mboyajeffers/financial-market-analysis).** All unique content from this repo now lives there. This repo is kept for history only.
+
 # Data Analytics Report Samples
 
 Automated analytics reports built on a production data infrastructure — financial markets, crypto, energy, and sports verticals. Every report pulls from live public APIs and delivers independently verifiable data with source attribution and pull timestamps.
