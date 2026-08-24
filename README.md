@@ -11,7 +11,7 @@ Automated analytics reports built on a production data infrastructure — financ
 | Report | Vertical | Data Source | File |
 |--------|----------|-------------|------|
 | Financial Markets Report | Equity / Macro | Yahoo Finance + FRED | [View PDF](reports/finance/Sample_Financial_Analytics_Report.pdf) |
-| Crypto Portfolio Analysis | Digital Assets | CoinGecko | [View PDF](reports/crypto/Sample_Crypto_Portfolio_Report.pdf) |
+| Crypto Portfolio Analysis | Digital Assets | CoinGecko | *temporarily offline for a refresh* |
 | Energy & Oil/Gas Intelligence | Energy / Commodities | EIA API + Yahoo Finance | [View PDF](reports/energy/Sample_Energy_Compliance_Report.pdf) |
 | Sports Analytics Report | Sports / Betting | ESPN | [View PDF](reports/sports/Sample_Sports_Analytics_Report.pdf) |
 | Q2 2026 Market Intelligence | Multi-sector | Yahoo Finance + FRED | [View PDF](reports/market-intelligence/Q2_2026_Market_Intelligence_Report.pdf) |
